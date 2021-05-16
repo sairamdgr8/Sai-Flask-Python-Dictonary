@@ -6,7 +6,7 @@ Created on Tue Jan 26 22:23:08 2021
 """
 
 from flask import Flask, render_template, request
-import requests
+#import requests
 import numpy as np
 from PyDictionary import PyDictionary
 app = Flask(__name__)
